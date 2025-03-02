@@ -1,0 +1,10 @@
+# Archivos temporales de Neovim
+*.swp
+*.bak
+*.tmp
+*.log
+
+# Archivos privados (ajusta si tienes)
+.env
+secrets.lua
+
